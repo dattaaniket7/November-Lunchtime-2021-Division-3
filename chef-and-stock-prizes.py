@@ -7,7 +7,3 @@ for i in range(int(input())):
     else:
         print("NO") 
         
-# 3
-# 100 93 108 7
-# 100 94 100 -7
-# 183 152 172 -17
