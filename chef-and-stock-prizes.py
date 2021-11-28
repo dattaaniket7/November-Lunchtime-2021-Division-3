@@ -1,3 +1,4 @@
+#Problem Code:CSTOCK
 for i in range(int(input())):
     s,a,b,c=map(int,input().split())
     c=s+s*(c/100)
